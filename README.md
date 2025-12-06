@@ -15,3 +15,7 @@ GATE CS 2026 topic weightage:
    - DBMS - 7% 
    - Networking - 7% 
    - Web Tech - 6% 
+
+
+TOTAL COUNT
+SectionNumber of TopicsEngineering Mathematics24Digital Logic6Computer Organization11Programming & Data Structures10Algorithms11Theory of Computation10Compiler Design9Operating System12Databases11Computer Networks32GRAND TOTAL≈ 136 topics
