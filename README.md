@@ -82,3 +82,8 @@ Track your performance across 30 mock tests with 65 questions each.
 3. Update the Summary Statistics section after completing tests
 4. Identify weak question numbers by looking at vertical patterns
 5. Track improvement across tests by comparing scores
+
+
+
+
+initial plan is 5000 questions to be practiced , but that is not possible 2000 questions solved and revised 3 times in enough
