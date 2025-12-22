@@ -28,8 +28,7 @@ Track your performance across 30 mock tests with 65 questions each.
 - Mark ✓ for correct answers
 - Mark ✗ for incorrect answers
 - Leave blank for unattempted questions
-
-<img width="444" height="702" alt="image" src="https://github.com/user-attachments/assets/f8152d96-da9e-4de2-9c38-dd269d75336c" />
+<img width="493" height="769" alt="image" src="https://github.com/user-attachments/assets/684d9c0e-6a92-41a7-8227-bfdc0c91ece0" />
 
 ---
 <img width="969" height="405" alt="image" src="https://github.com/user-attachments/assets/6b1b2c06-e0ac-4b1d-82ef-14e3291b7f1c" />
