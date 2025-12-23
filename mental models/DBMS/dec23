@@ -1,0 +1,83 @@
+like wise these questions as well
+
+The additional material provided confirms and expands the collection of GATE Computer Science Engineering (CSE) and Data Science & Artificial Intelligence (DA) Previous Year Questions (PYQs).
+Analysis of the New Sources
+• Year Span: The sources include questions from as early as 1988 and as recent as 2025 (e.g., GATE DA 2025, GATE CSE 2025).
+• Total Topic Context: The sources explicitly label sections with total question counts, such as Operating System (335 total questions), SQL (58), and Disk (31).
+
+--------------------------------------------------------------------------------
+Concept-Wise Frequency & Extracted Questions
+Below are the concepts and related questions extracted from the new source, following the structure of the typical GATE syllabus:
+1. Databases (DBMS)
+Concept
+Frequency in Source
+Sample Question Breakdown
+SQL
+58 questions
+Question: Number of rows returned by a query selecting student names and summing marks where marks > 84.<br>Source: GATE CSE 2019.
+Indexing
+13 questions
+Question: Determine the number of blocks in an index file for student records sorted on primary key with specific block and pointer sizes.<br>Source: GATE CSE 2021 Set 2.
+Joins
+7 questions
+Question: Find the maximum and minimum number of tuples in a natural join between 'Students' and 'Enroll' tables.<br>Source: GATE CSE 2004.
+Transaction & Concurrency
+Detailed Section
+Question: Identify which property (durability, atomicity, etc.) ensures changes persist even after a system crash.<br>Source: GATE CSE 2024 Set 2.
+Relational Algebra
+Detailed Section
+Question: Identify the most efficient optimized version of a query involving branch, account, and depositor relations.<br>Source: GATE IT 2007.
+Relational Calculus
+Detailed Section
+Question: Determine which tuple relational calculus expressions are equivalent to a specific relational algebra projection.<br>Source: GATE CSE 2008.
+Normalization
+Detailed Section
+Question: Identify correct statements regarding candidate keys and BCNF for a specific database relation and functional dependencies.<br>Source: GATE DA 2025.
+2. Operating Systems (OS) (Total 335 Topics/Questions)
+Concept
+Frequency in Source
+Sample Question Breakdown
+Disk
+31 questions
+Question: Calculate the number of cylinders in a 100 GB hard disk given the number of surfaces, sectors per track, and bytes per sector.<br>Source: GATE CSE 2024 Set 1.
+File System
+9 questions
+Question: Compare disk accesses (X and Y) required to insert a block in the middle of a file using contiguous vs. linked allocation.<br>Source: GATE CSE 2022.
+Fork System Call
+7 questions
+Question: Find the total child processes created by a loop that forks only when the iterator is even (if(i%2 == 0)).<br>Source: GATE CSE 2019.
+IO Handling
+7 questions
+Question: Identify the correct sequence of events (processor pushes status, finishes instruction, executes ISR, etc.) after a device controller issues an interrupt.<br>Source: GATE CSE 2018.
+Interrupts
+6 questions
+Question: Given the timing details of an interrupt cycle, calculate the percentage of total time the CPU devotes to main program execution.<br>Source: GATE CSE 1993.
+Context Switch
+4 questions
+Question: Which events (blocking system call, page fault, timer interrupt, etc.) will always trigger a context switch results in a process moving to a non-running state?.<br>Source: GATE CSE 2024 Set 2.
+Deadlock
+4 questions
+Question: Find the largest value of 'm' (maximum instances a process can request) that will always avoid deadlock in a system with 'n' processes and 'r' resources.<br>Source: GATE CSE 2018.
+3. Digital Logic
+Concept
+Related Questions
+Sample Question Breakdown
+Boolean Algebra
+Question: Simplify a Boolean expression containing variables x,y,z to its most basic form.<br>Source: GATE CSE 2008.
+Memory Interfacing
+Question: Calculate the number of 2×4 decoders needed to construct a 16K×16 RAM from 1K×8 RAM chips.<br>Source: GATE CSE 2013.
+Circuit Output
+Question: Identify which logic gates (labeled X and Y) are required to complete a circuit representing the "majority function".<br>Source: GATE IT 2006.
+
+--------------------------------------------------------------------------------
+Quiz: Concept Breakdown (10 Sample Questions from New Material)
+1. Concept: Paging (OS) - Calculate the maximum number of entries in a page table for a system with 32-bit logical addresses and 4 KB page size. (GATE CSE 2025 Set 1).
+2. Concept: SQL Aggregates - Find the estimated number of tuples in the output of a query filtering by gender and salary relative to an average. (GATE CSE 2021 Set 2).
+3. Concept: Deadlock Avoidance - Determine if a specific system state (Resources A, B, C) is safe using the Allocation and Max requirement matrices. (GATE CSE 2018).
+4. Concept: Disk Scheduling - Calculate the total power consumption (milliwatts) to satisfy requests using the Shortest Seek Time First (SSTF) algorithm. (GATE CSE 2018).
+5. Concept: B+ Tree Indexing - Find the minimum number of disk accesses required to retrieve any record in a database of one million records. (GATE CSE 2020).
+6. Concept: Transaction Properties - Identify which ACID property is violated if the effect of a completed transaction does not persist after a crash. (GATE CSE 2024 Set 2).
+7. Concept: Safe Queries (Relational Calculus) - Identify which provided TRC queries are "safe" (produce finite results). (GATE CSE 2017 Set 1).
+8. Concept: Fork/Wait Mechanics - Determine the total number of times a "hello" statement is printed in a loop containing both fork() and wait(NULL). (GATE CSE 2024 Set 1).
+9. Concept: Spooling (IO) - Identify a line printer or a secondary storage device as an example of a "spooled device". (GATE CSE 1996/1998).
+10. Concept: Foreign Keys (SQL) - Determine the consequence of deleting a specific tuple (x,y) in a table with a self-referencing foreign key and "on delete cascade". (GATE CSE 2001).
