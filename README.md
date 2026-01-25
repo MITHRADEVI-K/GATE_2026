@@ -47,3 +47,53 @@ Track your performance across 30 mock tests with 65 questions each.
 
 
 initial plan is 5000 questions to be practiced , but that is not possible 2000 questions solved and revised 3 times in enough
+
+
+
+Linear Algebra:
+
+CT 1: Matrix Algebra and System of Linear Equations
+CT 2: Eigenvalues and Eigenvectors
+
+Calculus:
+
+CT 3: Limits, Continuity and Differentiability
+CT 4: Definite and Indefinite Integrals
+CT 5: Maxima, Minima and Mean value theorem
+CT 6: Multiple and Improper Integrals
+CT 7: Taylor and Fourier Series
+CT 8: Vector Identities and Properties
+CT 9: Line, Surface and Volume Integrals
+CT 10: Application of Theorems
+
+Differential Equations (Not in given syllabus but part of extended curriculum):
+
+CT 11: First order LDE (Linear and Nonlinear)
+CT 12: Higher order LDE
+CT 13: Laplace Transforms
+CT 14: Euler-Cauchy Equations
+CT 15: Partial Differential Equation
+
+Probability and Statistics:
+
+CT 16: Sampling Theorems, Probability and Conditional Probability
+CT 17: Mean, Mode, Median and Std Deviation
+CT 18: Poisson, Normal and Binomial Distribution
+CT 19: Uniform and Exponential Distribution
+CT 20: Correlation and Regression Analysis
+CT 21: Discrete and Continuous Distribution
+
+Complex Analysis (Not in given syllabus but part of extended curriculum):
+
+CT 22: Analytic Function and C-R Equations
+CT 23: Cauchy's Integral Theorem and Formula
+CT 24: Taylor and Laurent's Series
+CT 25: Residue Theorem and Solution Integral
+
+Numerical Methods (Not in given syllabus but part of extended curriculum):
+
+CT 26: Numerical Methods (Algebraic Equations)
+CT 27: Numerical Methods (Integral Equations)
+CT 28: Numerical Methods (Differential Equations)
+
+Note: The syllabus you provided doesn't include Differential Equations, Complex Analysis, and Numerical Methods, but these topics are typically part of the complete GATE Engineering Mathematics curriculum.
