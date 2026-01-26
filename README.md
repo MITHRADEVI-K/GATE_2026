@@ -1,3 +1,22 @@
+Average Marks per Subject
+Subject	Avg Marks
+General Aptitude	14.83
+Engineering Math + Discrete Math	14.50
+Programming & DS	10.00
+COA	9.50
+Operating Systems	8.50
+Theory of Computation	8.33
+Computer Networks	8.17
+Algorithms	7.83
+DBMS	7.00
+Engineering Mathematics (alone)	5.83
+Compiler Design	5.17
+Digital Logic	5.00
+
+
+
+
+
 GATE CS 2026 topic weightage: 
 1. Engineering Mathematics - 13% 
    - Linear Algebra - 4% 
