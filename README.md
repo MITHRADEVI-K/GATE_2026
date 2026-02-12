@@ -1,3 +1,5 @@
+https://trello.com/invite/b/6948869300377bcb41bf541a/ATTI0653ccade22ae6c5c854ae859f041d0849050150/gate
+
 # GATE CS – Subject‑Wise Average Weightage & Priority Order (2018–2023)
 
 Here is the **calculated average weightage** and **descending priority order** of GATE CS subjects based on your data.
