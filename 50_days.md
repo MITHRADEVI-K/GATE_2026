@@ -1,4 +1,4 @@
-⭐ FULL SUMMARY — GATE Last 50 Days Strategy (Mocks, Revision, Attempt Strategy)
+#⭐ FULL SUMMARY — GATE Last 50 Days Strategy (Mocks, Revision, Attempt Strategy)
 
 By a 2-time AIR-1 educator
 
